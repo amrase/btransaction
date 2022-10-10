@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Transactions App
+
+![transactions](https://user-images.githubusercontent.com/55114220/194929679-f3c4c072-71cd-441f-b1e9-16fef76174e4.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
