@@ -1,0 +1,23 @@
+.navbar,
+.navbar-expand-lg,
+.navbar-expand-lg .navbar-nav {
+  float: left;
+  flex-direction: column;
+  align-items: center;
+  width: 100vh;
+}
+
+@media (min-width: 992px) {
+  .navbar {
+    width: 5%;
+    height: 100vh;
+  }
+  ul li {
+    margin: 0.7em;
+  }
+}
+
+.icon {
+  font-size: 1.5rem;
+  color: #00ad43;
+}
